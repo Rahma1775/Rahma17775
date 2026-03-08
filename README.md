@@ -6,14 +6,15 @@
 <details>
 <p><strong> <summary>  Busy training AI models & Coding :   </summary> </strong></p>
 
-💻 Python | 🤖 Machine Learning | 🧠 Deep Learning
+💻 Python | 🤖 Machine Learning | 🧠 Deep Learning | NLP | C++
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rahma1775&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![Linkedin badge](https://img.shields.io/badge/Rahma%20Reda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahma-reda-66a731328/) 
-[![GitHub badge](https://img.shields.io/badge/Rahma1775-grey?style=flat&logo=github)](https://github.com/Rahma1775)
+
+[![LinkedIn badge](https://img.shields.io/badge/Rahma%20Reda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahma-reda-66a731328/) 
+[![GitHub badge](https://img.shields.io/badge/Rahma1775-grey?style=flat&logo=github)](https://github.com/Rahma1775) 
+[![Telegram badge](https://img.shields.io/badge/Rahma2579-lightblue?style=flat&logo=telegram)](https://t.me/Rahma2579)
 
 </div>
 
@@ -43,21 +44,22 @@ class Rahma():
 
     def __init__(self):
         self.name = "Rahma Reda"
-        self.role = "AI Student"
+        self.role = "AI Student / Data Scientist"
         self.language_spoken = ["Arabic", "English"]
 
     def my_tools(self):
         return {
-            "ProgrammingLanguages": ["Python"],
+            "ProgrammingLanguages": ["Python", "C++"],
             "AI_Libraries": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
             "DataVisualization": ["Matplotlib", "Seaborn"],
             "Editors": ["VSCode", "Jupyter Notebook"],
             "Platforms": ["Windows", "Linux"],
-            "OtherTools": ["Git", "GitHub"]
+            "OtherTools": ["Git", "GitHub", "Web Scraping"]
         }
 
     def current_focus(self):
         return [
+            "Data Analysis",
             "Machine Learning",
             "Deep Learning",
             "Neural Networks",
