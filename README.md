@@ -1,55 +1,65 @@
-<!-- GitHub Profile README -->
+<div align="center" width="50">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,100:1d1f21&height=200&section=header&text=Rahma%20Reda&fontSize=40&fontColor=ffffff&animation=fadeIn)]()
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Girl Coding" width="60%"/> <br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="AI Workspace" width="40%"/><br> 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<details>
+<p><strong> <summary>  Busy training AI models & Coding :   </summary> </strong></p>
 
-My name is **Rahma Reda** and I'm an **Artificial Intelligence student**.  
-I'm passionate about **Machine Learning, Deep Learning, and Data Science**.
+💻 Python | 🤖 Machine Learning | 🧠 Deep Learning
 
-I enjoy building **AI models, analyzing data, and training machine learning systems using Python and its libraries**.
+</details>
 
-You can find me here:
+![Profile Views](https://komarev.com/ghpvc/?username=Rahma1775&style=flat&color=orange&label=PROFILE+VIEWS)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahma%20Reda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahma-reda-66a731328/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rahma1775-black?style=flat&logo=github)](https://github.com/Rahma1775)
+[![Linkedin badge](https://img.shields.io/badge/Rahma%20Reda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahma-reda-66a731328/) 
+[![GitHub badge](https://img.shields.io/badge/Rahma1775-grey?style=flat&logo=github)](https://github.com/Rahma1775)
 
----
+</div>
 
-# 🔧 Technologies & Tools
+<hr>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Field-Artificial%20Intelligence-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Field-Machine%20Learning-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Field-Deep%20Learning-informational?style=flat&color=2bbc8a)
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%A7%A0%20AI%20Tools%20I%20Use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
-![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat)
 
-![](https://img.shields.io/badge/Process-Model%20Training-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Process-Data%20Preprocessing-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Process-Data%20Analysis-informational?style=flat&color=2bbc8a)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 
----
+```python
+# tools_I_use organized
 
-# 📊 GitHub Stats
+class Rahma():
 
-![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahma1775&show_icons=true&theme=tokyonight)
+    def __init__(self):
+        self.name = "Rahma Reda"
+        self.role = "AI Student"
+        self.language_spoken = ["Arabic", "English"]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma1775&layout=compact&theme=tokyonight)
+    def my_tools(self):
+        return {
+            "ProgrammingLanguages": ["Python"],
+            "AI_Libraries": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
+            "DataVisualization": ["Matplotlib", "Seaborn"],
+            "Editors": ["VSCode", "Jupyter Notebook"],
+            "Platforms": ["Windows", "Linux"],
+            "OtherTools": ["Git", "GitHub"]
+        }
 
----
-
-# 🌱 Currently Learning
-
-- Deep Learning  
-- Neural Networks  
-- Natural Language Processing (NLP)  
-- Advanced Machine Learning  
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**
+    def current_focus(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Networks",
+            "Natural Language Processing"
+        ]
