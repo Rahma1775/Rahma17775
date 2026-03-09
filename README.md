@@ -1,67 +1,145 @@
-<div align="center" width="50">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=80&section=header"/>
+</p>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Girl Coding" width="60%"/> <br>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="AI Workspace" width="40%"/><br> 
+<!-- Profile badges -->
+![Profile views](https://komarev.com/ghpvc/?username=Rahma1775&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Rahma1775?style=social)
 
-<details>
-<p><strong> <summary>  Busy training AI models & Coding :   </summary> </strong></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B+Hello%2C+I'm+Rahma!" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=550&height=30&lines=Data+Analyst+%7C+AI+%26+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
+</div>
 
-💻 Python | 🤖 Machine Learning | 🧠 Deep Learning | NLP | C++
+<br/>
 
-</details>
+<!-- Social Links -->
+<div align="center">
+  <a href="https://github.com/Rahma1775" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rahma1775" height="40" width="52" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahma-reda-66a731328/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Rahma2579" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
+<br/>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![LinkedIn badge](https://img.shields.io/badge/Rahma%20Reda-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahma-reda-66a731328/) 
-[![GitHub badge](https://img.shields.io/badge/Rahma1775-grey?style=flat&logo=github)](https://github.com/Rahma1775) 
-[![Telegram badge](https://img.shields.io/badge/Rahma2579-lightblue?style=flat&logo=telegram)](https://t.me/Rahma2579)
+<br/>
+
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <span style="color: #8B5CF6;">About Me</span>
+</h2>
+
+Hi! I'm **Rahma Reda** — a Data Analyst & AI Engineer with a focus on **Data Science, Machine Learning, and Deep Learning**. I hold a B.Sc. in Computers and AI from **جامعة المنوفية** and certifications in **NTI (AI)** and **ITI Big Data**.  
+
+- 🤖 Machine Learning & Deep Learning
+- 💻 Python libraries & C++ development
+- 🎮 Outside work: physics, Minecraft, chess, and exploring tech  
+
+<br/>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/17ZrLnqkpV7XjeQDZd3mvS1FQwy3adw-y/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download_CV-8B5CF6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- Technical Skills Section -->
+<h2 align="center">
+  🚀 <span style="color: #06B6D4;">Technical Skills</span>
+</h2>
+
+<div align="center">
+
+<!-- AI & ML Expertise -->
+<h3>🤖 AI & ML Expertise</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+</p>
+
+<br/>
+
+<!-- Core Tech Stack -->
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cplusplus" alt="C++" width="48" height="48" />
+<br><b>C++</b>
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
-<hr>
+<br/>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%A7%A0%20AI%20Tools%20I%20Use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+<!-- Contact Section -->
+<h2 align="center">
+  📬 <span style="color: #8B5CF6;">Let's Connect!</span>
+</h2>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=flat)
+<p align="center">
+- <a href="mailto:contact@rahma.com">contact@rahma.com</a>
+- <a href="https://www.linkedin.com/in/rahma-reda-66a731328/">LinkedIn</a>
+- Social media: 
+</p>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+<div align="center">
+  <a href="https://github.com/Rahma1775" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rahma1775" height="40" width="52" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahma-reda-66a731328/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Rahma2579" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
-```python
-# tools_I_use organized
+<br/>
 
-class Rahma():
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:8B5CF6&height=120&section=footer"/>
+</p>
 
-    def __init__(self):
-        self.name = "Rahma Reda"
-        self.role = "AI Student / Data Scientist"
-        self.language_spoken = ["Arabic", "English"]
-
-    def my_tools(self):
-        return {
-            "ProgrammingLanguages": ["Python", "C++"],
-            "AI_Libraries": ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
-            "DataVisualization": ["Matplotlib", "Seaborn"],
-            "Editors": ["VSCode", "Jupyter Notebook"],
-            "Platforms": ["Windows", "Linux"],
-            "OtherTools": ["Git", "GitHub", "Web Scraping"]
-        }
-
-    def current_focus(self):
-        return [
-            "Data Analysis",
-            "Machine Learning",
-            "Deep Learning",
-            "Neural Networks",
-            "Natural Language Processing"
-        ]
+<p align="center">
+  <a href="#top" title="Back to top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-8B5CF6?style=for-the-badge" alt="Back to top"/>
+  </a>
+</p>
